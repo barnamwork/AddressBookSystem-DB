@@ -1,0 +1,12 @@
+Field,Type,Null,Key,Default,Extra
+id,"int unsigned",NO,PRI,NULL,auto_increment
+ab_name,varchar(50),YES,,NULL,
+first_name,varchar(150),NO,,NULL,
+last_name,varchar(150),NO,,NULL,
+address,varchar(255),NO,,NULL,
+city,varchar(100),NO,,NULL,
+state,varchar(100),NO,,NULL,
+zip,varchar(10),NO,,NULL,
+phone_number,varchar(15),NO,,NULL,
+email,varchar(150),NO,,NULL,
+type,varchar(50),YES,,NULL,
