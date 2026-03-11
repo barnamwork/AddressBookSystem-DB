@@ -1,0 +1,4 @@
+id,first_name,last_name,address,city,state,zip,phone_number,email
+1,Pranav,Sinha,"123 Main St",Mumbai,Maharashtra,400001,9876543210,aaditya@example.com
+2,Barnam,Das,"456 Park Ave",Bangalore,Karnataka,560001,8765432109,devraj@example.com
+3,John,Doe,"789 Lake Rd",Mumbai,Maharashtra,400002,7654321098,john@example.com
